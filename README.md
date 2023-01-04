@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham Kumar Savita
-- 🌱 I’m currently learning Embedded and VLSI.
+- 🌱 Student @ Embedded and VLSI Tech.
 
 <!---
 shubhamsavita98/shubhamsavita98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
